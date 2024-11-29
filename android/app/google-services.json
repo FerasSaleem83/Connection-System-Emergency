@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "455553155734",
+    "firebase_url": "https://connection-system-of-emergency-default-rtdb.firebaseio.com",
+    "project_id": "connection-system-of-emergency",
+    "storage_bucket": "connection-system-of-emergency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455553155734:android:6ff3894ac017f8d5fff8b7",
+        "android_client_info": {
+          "package_name": "com.example.cse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUq_YSmZQaSW-VgT8BvVkd3_iMM6zI2CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
